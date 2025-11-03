@@ -1,4 +1,4 @@
-# Basic-ABAP
+# BookingTable_ABAP_Practice
 
 This repository contains simple ABAP programs developed in the **ABAP BTP Trial** environment.
 
