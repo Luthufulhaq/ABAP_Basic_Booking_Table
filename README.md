@@ -31,7 +31,7 @@ Below is an example output from the project:
 4. Paste this repository’s HTTPS link:  
 https://github.com/Luthufulhaq/Basic-ABAP.git
 5. Choose or create a package (e.g., `ZBASIC_ABAP`).
-6. Set the branch to `main` (or select available branch if different).
+6. Set the branch to `main` (or select an available branch if different).
 7. Click **Pull** to import the objects.
 
 ---
